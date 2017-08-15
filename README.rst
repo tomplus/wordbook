@@ -1,6 +1,12 @@
 Wordbook
 ========
 
+.. image:: https://travis-ci.org/tomplus/wordbook.svg?branch=master
+    :target: https://travis-ci.org/tomplus/wordbook
+
+.. image:: https://coveralls.io/repos/github/tomplus/wordbook/badge.svg?branch=master
+    :target: https://coveralls.io/github/tomplus/wordbook?branch=master
+
 Wordbook is a Python asynchronous library to query Dict servers. It implements the main parts of DICT protocol (`RFC 2229 <https://tools.ietf.org/html/rfc2229>`_)
 
 The library consists two classes:
