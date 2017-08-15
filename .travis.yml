@@ -2,4 +2,9 @@ language: python
 python:
   - "3.5"
   - "3.6"
-script: python setup.py test
+install:
+  - pip install coveralls 
+script:
+  coverage run --source=wordbook python setup.py test
+after_success:
+  coveralls
