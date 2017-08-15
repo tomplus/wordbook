@@ -3,10 +3,14 @@ Wordbook
 
 DICT Python Client
 
-
+.. image:: https://img.shields.io/pypi/v/wordbook.svg
+    :target: https://pypi.python.org/pypi/wordbook
+.. image:: https://img.shields.io/pypi/pyversions/wordbook.svg
+    :target: https://pypi.python.org/pypi/wordbook
+.. image:: https://img.shields.io/pypi/l/wordbook.svg
+    :target: https://pypi.python.org/pypi/wordbook
 .. image:: https://travis-ci.org/tomplus/wordbook.svg?branch=master
     :target: https://travis-ci.org/tomplus/wordbook
-
 .. image:: https://coveralls.io/repos/github/tomplus/wordbook/badge.svg?branch=master
     :target: https://coveralls.io/github/tomplus/wordbook?branch=master
 
