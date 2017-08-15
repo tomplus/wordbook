@@ -1,7 +1,7 @@
 Wordbook
 ========
 
-Wordbook is a Python asynchronous library to query Dict servers. It implements the main parts of DICT protocol (`RFC 2229<https://tools.ietf.org/html/rfc2229>`_).
+Wordbook is a Python asynchronous library to query Dict servers. It implements the main parts of DICT protocol (`RFC 2229 <https://tools.ietf.org/html/rfc2229>`_)
 
 The library consists two classes:
 
